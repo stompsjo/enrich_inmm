@@ -17,7 +17,7 @@
                 <design_feed_flow>1000</design_feed_flow>
                 <max_centrifuges>169</max_centrifuges>
 
-                <miss_use_model>1</miss_use_model>
+                <misuse_model>1</misuse_model>
                 <centrifuge_velocity>320</centrifuge_velocity>
                 <height>1.8</height>
                 <diameter>0.105</diameter>
@@ -43,7 +43,7 @@
                 <design_feed_flow>1000</design_feed_flow>
                 <max_centrifuges>169</max_centrifuges>
 
-                <miss_use_model>1</miss_use_model>
+                <misuse_model>1</misuse_model>
                 <centrifuge_velocity>320</centrifuge_velocity>
                 <height>1.8</height>
                 <diameter>0.105</diameter>
@@ -63,7 +63,7 @@
                 <tails_commod>c_depleted_u</tails_commod>
                 <max_feed_inventory>2.9</max_feed_inventory>
 
-                <miss_use_model>1</miss_use_model>
+                <misuse_model>1</misuse_model>
                 <design_product_assay>0.035</design_product_assay>
                 <design_tails_assay>0.003</design_tails_assay>
                 <design_feed_assay>0.0071</design_feed_assay>
@@ -97,7 +97,7 @@
                 <max_centrifuges>169</max_centrifuges>
 
 
-                <miss_use_model>1</miss_use_model>
+                <misuse_model>1</misuse_model>
                 <centrifuge_velocity>320</centrifuge_velocity>
                 <height>1.8</height>
                 <diameter>0.105</diameter>
@@ -124,7 +124,7 @@
                 <max_centrifuges>169</max_centrifuges>
 
 
-                <miss_use_model>1</miss_use_model>
+                <misuse_model>1</misuse_model>
                 <centrifuge_velocity>320</centrifuge_velocity>
                 <height>1.8</height>
                 <diameter>0.105</diameter>
@@ -151,7 +151,7 @@
                 <max_centrifuges>169</max_centrifuges>
 
 
-                <miss_use_model>1</miss_use_model>
+                <misuse_model>1</misuse_model>
                 <centrifuge_velocity>320</centrifuge_velocity>
                 <height>1.8</height>
                 <diameter>0.105</diameter>

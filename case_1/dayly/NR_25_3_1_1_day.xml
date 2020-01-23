@@ -1,4 +1,4 @@
-<simulation xml:base="/Users/mouginot/work/enrich_inmm/"
+<simulation xml:base="/home/stomps/repos/enrich_inmm/"
   xmlns:xi="http://www.w3.org/2001/XInclude">
 
     <xi:include href="header/day.xml" xpointer="xpointer(//header/*)" />
