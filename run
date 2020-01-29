@@ -1,8 +1,18 @@
 #!/bin/bash
 
 
-for file in `ls *case*_2_1*S2.xml`;
+for file in `ls case_*/*.xml`;
 do
     name=`echo "${file%%.*}.sqlite"`
-    rm $name; cyclus $file -o $name -v2
+    rm $name; cyclus $file -o $name -v6 | tee $file.log
+done
+
+for file in `ls case_*/*.log`;
+do
+    echo "Feed Assay:" >> $file.output
+    grep -F "* Feed Assay:" $file | tail -4 | cut -d " " -f16- >> $file.output
+    echo "Product Assay:" >> $file.output
+    grep -F "* Product Assay:" $file | tail -4 | cut -d " " -f16- >> $file.output
+    echo "Tails Assay:" >> $file.output
+    grep -F "* Tails Assay:" $file | tail -4 | cut -d " " -f16- >> $file.output
 done
