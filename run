@@ -15,5 +15,4 @@ do
     grep -F "* Product Assay:" $file | tail -4 | cut -d " " -f16- >> $file.output
     echo "Tails Assay:" >> $file.output
     grep -F "* Tails Assay:" $file | tail -4 | cut -d " " -f16- >> $file.output
-    rm $file
 done
