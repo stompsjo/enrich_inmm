@@ -13,7 +13,7 @@
                 <design_product_assay>0.035</design_product_assay>
                 <design_tails_assay>0.003</design_tails_assay>
                 <design_feed_assay>0.0071</design_feed_assay>
-                <design_feed_flow>1000</design_feed_flow>
+                <design_feed_flow>0.00038025705</design_feed_flow>
                 <max_centrifuges>169</max_centrifuges>
 
                 <misuse_model>1</misuse_model>
@@ -38,7 +38,7 @@
                 <design_product_assay>0.035</design_product_assay>
                 <design_tails_assay>0.003</design_tails_assay>
                 <design_feed_assay>0.0071</design_feed_assay>
-                <design_feed_flow>1000</design_feed_flow>
+                <design_feed_flow>0.00038025705</design_feed_flow>
                 <max_centrifuges>169</max_centrifuges>
 
                 <misuse_model>1</misuse_model>
@@ -63,7 +63,7 @@
                 <design_product_assay>0.035</design_product_assay>
                 <design_tails_assay>0.003</design_tails_assay>
                 <design_feed_assay>0.0071</design_feed_assay>
-                <design_feed_flow>1000</design_feed_flow>
+                <design_feed_flow>0.00038025705</design_feed_flow>
                 <max_centrifuges>169</max_centrifuges>
 
 
@@ -89,7 +89,7 @@
                 <design_product_assay>0.035</design_product_assay>
                 <design_tails_assay>0.003</design_tails_assay>
                 <design_feed_assay>0.0071</design_feed_assay>
-                <design_feed_flow>1000</design_feed_flow>
+                <design_feed_flow>0.00038025705</design_feed_flow>
                 <max_centrifuges>169</max_centrifuges>
 
 
@@ -115,7 +115,7 @@
                 <design_product_assay>0.035</design_product_assay>
                 <design_tails_assay>0.003</design_tails_assay>
                 <design_feed_assay>0.0071</design_feed_assay>
-                <design_feed_flow>1000</design_feed_flow>
+                <design_feed_flow>0.00038025705</design_feed_flow>
                 <max_centrifuges>169</max_centrifuges>
 
 
@@ -141,7 +141,7 @@
                 <design_product_assay>0.035</design_product_assay>
                 <design_tails_assay>0.003</design_tails_assay>
                 <design_feed_assay>0.0071</design_feed_assay>
-                <design_feed_flow>1000</design_feed_flow>
+                <design_feed_flow>0.00038025705</design_feed_flow>
                 <max_centrifuges>169</max_centrifuges>
 
 
