@@ -4,15 +4,15 @@
 for file in `ls case_*/*.xml`;
 do
     name=`echo "${file%%.*}.sqlite"`
-    rm $name; cyclus $file -o $name -v6 | tee $file.log
-done
-
-for file in `ls case_*/*.log`;
-do
-    echo "Feed Assay:" >> $file.output
-    grep -F "* Feed Assay:" $file | tail -4 | cut -d " " -f16- >> $file.output
-    echo "Product Assay:" >> $file.output
-    grep -F "* Product Assay:" $file | tail -4 | cut -d " " -f16- >> $file.output
-    echo "Tails Assay:" >> $file.output
-    grep -F "* Tails Assay:" $file | tail -4 | cut -d " " -f16- >> $file.output
+    out=`echo "${file%%.*}.output"`
+    log=`echo "${file%%.*}.log"`
+    rm $name $out $log
+    cyclus $file -o $name -v6 | tee $out
+    
+    echo "Feed Assay:" >> $log
+    grep -F "* Feed Assay:" $out | tail -5 | cut -d " " -f16- >> $log
+    echo "Product Assay:" >> $log
+    grep -F "* Product Assay:" $out | tail -5 | cut -d " " -f16- >> $log
+    echo "Tails Assay:" >> $log
+    grep -F "* Tails Assay:" $out | tail -5 | cut -d " " -f16- >> $log
 done
