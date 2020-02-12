@@ -34,8 +34,8 @@ flat schema tag detected - switching to flat input schema
  INFO2(core  ):  Beginning Tock for time: 0
  INFO2(core  ):  Beginning Decision for time: 0
  INFO1(core  ):Current time: 1
- INFO3(core  ):    Building a nu_src from parent 0x563490c5e390
- INFO3(core  ):    Building a cascade_0 from parent 0x563490c5e390
+ INFO3(core  ):    Building a nu_src from parent 0x5573f40ceb50
+ INFO3(core  ):    Building a cascade_0 from parent 0x5573f40ceb50
 stg -4 FA: 0.00347492 PA: 0.00415549 TA: 0.00290548 feed_flow: 9.25374e-05 cut: 0.455546 alpha: 1.19667 beta: 1.19667 machine: 7
 stg -3 FA: 0.00415549 PA: 0.00496868 TA: 0.00347492 feed_flow: 0.000169983 cut: 0.455607 alpha: 1.19667 beta: 1.19667 machine: 13
 stg -2 FA: 0.00496868 PA: 0.00594007 TA: 0.00415549 feed_flow: 0.000234839 cut: 0.45568 alpha: 1.19667 beta: 1.19667 machine: 18
@@ -51,9 +51,9 @@ stg 7 FA: 0.0245128 PA: 0.029193 TA: 0.0205671 feed_flow: 4.84303e-05 cut: 0.457
 stg 8 FA: 0.029193 PA: 0.034735 TA: 0.0245128 feed_flow: 2.94592e-05 cut: 0.457848 alpha: 1.19667 beta: 1.19667 machine: 3
 stg 9 FA: 0.034735 PA: 0.0412842 TA: 0.029193 feed_flow: 1.34878e-05 cut: 0.458345 alpha: 1.19667 beta: 1.19667 machine: 1
 Dsign Feed Flow 148.756
- INFO3(core  ):    Building a storage_0 from parent 0x563490c5e390
- INFO3(core  ):    Building a storage_nat from parent 0x563490c5e390
- INFO3(core  ):    Building a cascade_1 from parent 0x563490c5e390
+ INFO3(core  ):    Building a storage_0 from parent 0x5573f40ceb50
+ INFO3(core  ):    Building a storage_nat from parent 0x5573f40ceb50
+ INFO3(core  ):    Building a cascade_1 from parent 0x5573f40ceb50
 stg -4 FA: 0.00347492 PA: 0.00415549 TA: 0.00290548 feed_flow: 9.25374e-05 cut: 0.455546 alpha: 1.19667 beta: 1.19667 machine: 7
 stg -3 FA: 0.00415549 PA: 0.00496868 TA: 0.00347492 feed_flow: 0.000169983 cut: 0.455607 alpha: 1.19667 beta: 1.19667 machine: 13
 stg -2 FA: 0.00496868 PA: 0.00594007 TA: 0.00415549 feed_flow: 0.000234839 cut: 0.45568 alpha: 1.19667 beta: 1.19667 machine: 18
@@ -69,8 +69,8 @@ stg 7 FA: 0.0245128 PA: 0.029193 TA: 0.0205671 feed_flow: 4.84303e-05 cut: 0.457
 stg 8 FA: 0.029193 PA: 0.034735 TA: 0.0245128 feed_flow: 2.94592e-05 cut: 0.457848 alpha: 1.19667 beta: 1.19667 machine: 3
 stg 9 FA: 0.034735 PA: 0.0412842 TA: 0.029193 feed_flow: 1.34878e-05 cut: 0.458345 alpha: 1.19667 beta: 1.19667 machine: 1
 Dsign Feed Flow 148.756
- INFO3(core  ):    Building a storage_1 from parent 0x563490c5e390
- INFO3(core  ):    Building a cascade_2 from parent 0x563490c5e390
+ INFO3(core  ):    Building a storage_1 from parent 0x5573f40ceb50
+ INFO3(core  ):    Building a cascade_2 from parent 0x5573f40ceb50
 stg -4 FA: 0.00347492 PA: 0.00415549 TA: 0.00290548 feed_flow: 9.25374e-05 cut: 0.455546 alpha: 1.19667 beta: 1.19667 machine: 7
 stg -3 FA: 0.00415549 PA: 0.00496868 TA: 0.00347492 feed_flow: 0.000169983 cut: 0.455607 alpha: 1.19667 beta: 1.19667 machine: 13
 stg -2 FA: 0.00496868 PA: 0.00594007 TA: 0.00415549 feed_flow: 0.000234839 cut: 0.45568 alpha: 1.19667 beta: 1.19667 machine: 18
@@ -86,8 +86,8 @@ stg 7 FA: 0.0245128 PA: 0.029193 TA: 0.0205671 feed_flow: 4.84303e-05 cut: 0.457
 stg 8 FA: 0.029193 PA: 0.034735 TA: 0.0245128 feed_flow: 2.94592e-05 cut: 0.457848 alpha: 1.19667 beta: 1.19667 machine: 3
 stg 9 FA: 0.034735 PA: 0.0412842 TA: 0.029193 feed_flow: 1.34878e-05 cut: 0.458345 alpha: 1.19667 beta: 1.19667 machine: 1
 Dsign Feed Flow 148.756
- INFO3(core  ):    Building a storage_2 from parent 0x563490c5e390
- INFO3(core  ):    Building a cascade_3 from parent 0x563490c5e390
+ INFO3(core  ):    Building a storage_2 from parent 0x5573f40ceb50
+ INFO3(core  ):    Building a cascade_3 from parent 0x5573f40ceb50
 stg -4 FA: 0.00347492 PA: 0.00415549 TA: 0.00290548 feed_flow: 9.25374e-05 cut: 0.455546 alpha: 1.19667 beta: 1.19667 machine: 7
 stg -3 FA: 0.00415549 PA: 0.00496868 TA: 0.00347492 feed_flow: 0.000169983 cut: 0.455607 alpha: 1.19667 beta: 1.19667 machine: 13
 stg -2 FA: 0.00496868 PA: 0.00594007 TA: 0.00415549 feed_flow: 0.000234839 cut: 0.45568 alpha: 1.19667 beta: 1.19667 machine: 18
@@ -103,8 +103,8 @@ stg 7 FA: 0.0245128 PA: 0.029193 TA: 0.0205671 feed_flow: 4.84303e-05 cut: 0.457
 stg 8 FA: 0.029193 PA: 0.034735 TA: 0.0245128 feed_flow: 2.94592e-05 cut: 0.457848 alpha: 1.19667 beta: 1.19667 machine: 3
 stg 9 FA: 0.034735 PA: 0.0412842 TA: 0.029193 feed_flow: 1.34878e-05 cut: 0.458345 alpha: 1.19667 beta: 1.19667 machine: 1
 Dsign Feed Flow 148.756
- INFO3(core  ):    Building a storage_3 from parent 0x563490c5e390
- INFO3(core  ):    Building a waste from parent 0x563490c5e390
+ INFO3(core  ):    Building a storage_3 from parent 0x5573f40ceb50
+ INFO3(core  ):    Building a waste from parent 0x5573f40ceb50
  INFO2(core  ):  Beginning Tick for time: 1
  INFO3(ComCnv):    storage_0 is ticking {
  INFO4(ComCnv):       has capacity for 1e+299 kg of material.
@@ -140,19 +140,19 @@ Dsign Feed Flow 148.756
  INFO5(Source):        nu_src sent an order for 1e+299 of c_nat_u_
  INFO3(buypol):    policy inventory (agent storage_nat-25): got 1e+299 kg of c_nat_u_
  INFO2(core  ):  Beginning Tock for time: 1
- INFO4(EnrFac):      cascade_0 used 8.76421e+252 feed
+ INFO4(EnrFac):      cascade_0 used 2.00426e+289 feed
  INFO3(ComCnv):    storage_0 is tocking {
  INFO3(ComCnv):    }
  INFO3(ComCnv):    storage_nat is tocking {
  INFO1(ComCnv):Storage storage_nat moved resources from ready to stocks at t= 1
  INFO3(ComCnv):    }
- INFO4(EnrFac):      cascade_1 used 1.49092e-310 feed
+ INFO4(EnrFac):      cascade_1 used 2.07227e+243 feed
  INFO3(ComCnv):    storage_1 is tocking {
  INFO3(ComCnv):    }
- INFO4(EnrFac):      cascade_2 used 1.39624e+195 feed
+ INFO4(EnrFac):      cascade_2 used 2.85342e+242 feed
  INFO3(ComCnv):    storage_2 is tocking {
  INFO3(ComCnv):    }
- INFO4(EnrFac):      cascade_3 used 6.01347e-154 feed
+ INFO4(EnrFac):      cascade_3 used 1.94954e+289 feed
  INFO3(ComCnv):    storage_3 is tocking {
  INFO3(ComCnv):    }
  INFO3(SnkFac):    waste is tocking {
@@ -195,18 +195,18 @@ Dsign Feed Flow 148.756
  INFO5(EnrFac):        cascade_0 is initially holding 0 total.
  INFO5(EnrFac):        cascade_0 added 300 of c_nat_u to its inventory, which is holding 300 total.
  INFO2(core  ):  Beginning Tock for time: 2
- INFO4(EnrFac):      cascade_0 used 8.76421e+252 feed
+ INFO4(EnrFac):      cascade_0 used 2.00426e+289 feed
  INFO3(ComCnv):    storage_0 is tocking {
  INFO3(ComCnv):    }
  INFO3(ComCnv):    storage_nat is tocking {
  INFO3(ComCnv):    }
- INFO4(EnrFac):      cascade_1 used 1.49092e-310 feed
+ INFO4(EnrFac):      cascade_1 used 2.07227e+243 feed
  INFO3(ComCnv):    storage_1 is tocking {
  INFO3(ComCnv):    }
- INFO4(EnrFac):      cascade_2 used 1.39624e+195 feed
+ INFO4(EnrFac):      cascade_2 used 2.85342e+242 feed
  INFO3(ComCnv):    storage_2 is tocking {
  INFO3(ComCnv):    }
- INFO4(EnrFac):      cascade_3 used 6.01347e-154 feed
+ INFO4(EnrFac):      cascade_3 used 1.94954e+289 feed
  INFO3(ComCnv):    storage_3 is tocking {
  INFO3(ComCnv):    }
  INFO3(SnkFac):    waste is tocking {
@@ -261,13 +261,13 @@ Dsign Feed Flow 148.756
  INFO3(ComCnv):    }
  INFO3(ComCnv):    storage_nat is tocking {
  INFO3(ComCnv):    }
- INFO4(EnrFac):      cascade_1 used 1.49092e-310 feed
+ INFO4(EnrFac):      cascade_1 used 2.07227e+243 feed
  INFO3(ComCnv):    storage_1 is tocking {
  INFO3(ComCnv):    }
- INFO4(EnrFac):      cascade_2 used 1.39624e+195 feed
+ INFO4(EnrFac):      cascade_2 used 2.85342e+242 feed
  INFO3(ComCnv):    storage_2 is tocking {
  INFO3(ComCnv):    }
- INFO4(EnrFac):      cascade_3 used 6.01347e-154 feed
+ INFO4(EnrFac):      cascade_3 used 1.94954e+289 feed
  INFO3(ComCnv):    storage_3 is tocking {
  INFO3(ComCnv):    }
  INFO3(SnkFac):    waste is tocking {
@@ -333,13 +333,13 @@ Dsign Feed Flow 148.756
  INFO3(ComCnv):    }
  INFO3(ComCnv):    storage_nat is tocking {
  INFO3(ComCnv):    }
- INFO4(EnrFac):      cascade_1 used 1.49092e-310 feed
+ INFO4(EnrFac):      cascade_1 used 2.07227e+243 feed
  INFO3(ComCnv):    storage_1 is tocking {
  INFO3(ComCnv):    }
- INFO4(EnrFac):      cascade_2 used 1.39624e+195 feed
+ INFO4(EnrFac):      cascade_2 used 2.85342e+242 feed
  INFO3(ComCnv):    storage_2 is tocking {
  INFO3(ComCnv):    }
- INFO4(EnrFac):      cascade_3 used 6.01347e-154 feed
+ INFO4(EnrFac):      cascade_3 used 1.94954e+289 feed
  INFO3(ComCnv):    storage_3 is tocking {
  INFO3(ComCnv):    }
  INFO3(SnkFac):    waste is tocking {
@@ -419,10 +419,10 @@ Dsign Feed Flow 148.756
  INFO3(ComCnv):    storage_1 is tocking {
  INFO1(ComCnv):Storage storage_1 moved resources from ready to stocks at t= 5
  INFO3(ComCnv):    }
- INFO4(EnrFac):      cascade_2 used 1.39624e+195 feed
+ INFO4(EnrFac):      cascade_2 used 2.85342e+242 feed
  INFO3(ComCnv):    storage_2 is tocking {
  INFO3(ComCnv):    }
- INFO4(EnrFac):      cascade_3 used 6.01347e-154 feed
+ INFO4(EnrFac):      cascade_3 used 1.94954e+289 feed
  INFO3(ComCnv):    storage_3 is tocking {
  INFO3(ComCnv):    }
  INFO3(SnkFac):    waste is tocking {
@@ -509,10 +509,10 @@ Dsign Feed Flow 148.756
  INFO3(ComCnv):    storage_1 is tocking {
  INFO1(ComCnv):Storage storage_1 moved resources from ready to stocks at t= 6
  INFO3(ComCnv):    }
- INFO4(EnrFac):      cascade_2 used 1.39624e+195 feed
+ INFO4(EnrFac):      cascade_2 used 2.85342e+242 feed
  INFO3(ComCnv):    storage_2 is tocking {
  INFO3(ComCnv):    }
- INFO4(EnrFac):      cascade_3 used 6.01347e-154 feed
+ INFO4(EnrFac):      cascade_3 used 1.94954e+289 feed
  INFO3(ComCnv):    storage_3 is tocking {
  INFO3(ComCnv):    }
  INFO3(SnkFac):    waste is tocking {
@@ -613,7 +613,7 @@ Dsign Feed Flow 148.756
  INFO3(ComCnv):    storage_2 is tocking {
  INFO1(ComCnv):Storage storage_2 moved resources from ready to stocks at t= 7
  INFO3(ComCnv):    }
- INFO4(EnrFac):      cascade_3 used 6.01347e-154 feed
+ INFO4(EnrFac):      cascade_3 used 1.94954e+289 feed
  INFO3(ComCnv):    storage_3 is tocking {
  INFO3(ComCnv):    }
  INFO3(SnkFac):    waste is tocking {
@@ -721,7 +721,7 @@ Dsign Feed Flow 148.756
  INFO3(ComCnv):    storage_2 is tocking {
  INFO1(ComCnv):Storage storage_2 moved resources from ready to stocks at t= 8
  INFO3(ComCnv):    }
- INFO4(EnrFac):      cascade_3 used 6.01347e-154 feed
+ INFO4(EnrFac):      cascade_3 used 1.94954e+289 feed
  INFO3(ComCnv):    storage_3 is tocking {
  INFO3(ComCnv):    }
  INFO3(SnkFac):    waste is tocking {
@@ -21590,4 +21590,4 @@ Dsign Feed Flow 148.756
 
 Status: Cyclus run successful!
 Output location: case_1/NR_raw_S3.sqlite
-Simulation ID: 713db85c-c040-4bcd-a84f-9be5e4f087d5
+Simulation ID: ed1f30d5-ee86-4d48-a2b4-da51bee7261f
