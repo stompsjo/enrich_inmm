@@ -34,8 +34,8 @@ flat schema tag detected - switching to flat input schema
  INFO2(core  ):  Beginning Tock for time: 0
  INFO2(core  ):  Beginning Decision for time: 0
  INFO1(core  ):Current time: 1
- INFO3(core  ):    Building a nu_src from parent 0x55e8fd51bfc0
- INFO3(core  ):    Building a cascade_0 from parent 0x55e8fd51bfc0
+ INFO3(core  ):    Building a nu_src from parent 0x56217e7a28c0
+ INFO3(core  ):    Building a cascade_0 from parent 0x56217e7a28c0
 stg -6 FA: 0.0031666 PA: 0.00362347 TA: 0.00276717 feed_flow: 5.09351e-05 cut: 0.466457 alpha: 1.1448 beta: 1.1448 machine: 4
 stg -5 FA: 0.00362347 PA: 0.00414598 TA: 0.0031666 feed_flow: 9.54714e-05 cut: 0.466488 alpha: 1.1448 beta: 1.1448 machine: 8
 stg -4 FA: 0.00414598 PA: 0.00474348 TA: 0.00362347 feed_flow: 0.000134425 cut: 0.466523 alpha: 1.1448 beta: 1.1448 machine: 10
@@ -56,9 +56,9 @@ stg 10 FA: 0.0269037 PA: 0.0306799 TA: 0.023581 feed_flow: 2.63089e-05 cut: 0.46
 stg 11 FA: 0.0306799 PA: 0.0349671 TA: 0.0269037 feed_flow: 1.6394e-05 cut: 0.468315 alpha: 1.1448 beta: 1.1448 machine: 2
 stg 12 FA: 0.0349671 PA: 0.0398288 TA: 0.0306799 feed_flow: 7.67754e-06 cut: 0.468604 alpha: 1.1448 beta: 1.1448 machine: 1
 Dsign Feed Flow 80.9303
- INFO3(core  ):    Building a storage_0 from parent 0x55e8fd51bfc0
- INFO3(core  ):    Building a storage_nat from parent 0x55e8fd51bfc0
- INFO3(core  ):    Building a cascade_1 from parent 0x55e8fd51bfc0
+ INFO3(core  ):    Building a storage_0 from parent 0x56217e7a28c0
+ INFO3(core  ):    Building a storage_nat from parent 0x56217e7a28c0
+ INFO3(core  ):    Building a cascade_1 from parent 0x56217e7a28c0
 stg -6 FA: 0.0031666 PA: 0.00362347 TA: 0.00276717 feed_flow: 5.09351e-05 cut: 0.466457 alpha: 1.1448 beta: 1.1448 machine: 4
 stg -5 FA: 0.00362347 PA: 0.00414598 TA: 0.0031666 feed_flow: 9.54714e-05 cut: 0.466488 alpha: 1.1448 beta: 1.1448 machine: 8
 stg -4 FA: 0.00414598 PA: 0.00474348 TA: 0.00362347 feed_flow: 0.000134425 cut: 0.466523 alpha: 1.1448 beta: 1.1448 machine: 10
@@ -79,8 +79,8 @@ stg 10 FA: 0.0269037 PA: 0.0306799 TA: 0.023581 feed_flow: 2.63089e-05 cut: 0.46
 stg 11 FA: 0.0306799 PA: 0.0349671 TA: 0.0269037 feed_flow: 1.6394e-05 cut: 0.468315 alpha: 1.1448 beta: 1.1448 machine: 2
 stg 12 FA: 0.0349671 PA: 0.0398288 TA: 0.0306799 feed_flow: 7.67754e-06 cut: 0.468604 alpha: 1.1448 beta: 1.1448 machine: 1
 Dsign Feed Flow 80.9303
- INFO3(core  ):    Building a storage_1 from parent 0x55e8fd51bfc0
- INFO3(core  ):    Building a cascade_2 from parent 0x55e8fd51bfc0
+ INFO3(core  ):    Building a storage_1 from parent 0x56217e7a28c0
+ INFO3(core  ):    Building a cascade_2 from parent 0x56217e7a28c0
 stg -6 FA: 0.0031666 PA: 0.00362347 TA: 0.00276717 feed_flow: 5.09351e-05 cut: 0.466457 alpha: 1.1448 beta: 1.1448 machine: 4
 stg -5 FA: 0.00362347 PA: 0.00414598 TA: 0.0031666 feed_flow: 9.54714e-05 cut: 0.466488 alpha: 1.1448 beta: 1.1448 machine: 8
 stg -4 FA: 0.00414598 PA: 0.00474348 TA: 0.00362347 feed_flow: 0.000134425 cut: 0.466523 alpha: 1.1448 beta: 1.1448 machine: 10
@@ -101,8 +101,8 @@ stg 10 FA: 0.0269037 PA: 0.0306799 TA: 0.023581 feed_flow: 2.63089e-05 cut: 0.46
 stg 11 FA: 0.0306799 PA: 0.0349671 TA: 0.0269037 feed_flow: 1.6394e-05 cut: 0.468315 alpha: 1.1448 beta: 1.1448 machine: 2
 stg 12 FA: 0.0349671 PA: 0.0398288 TA: 0.0306799 feed_flow: 7.67754e-06 cut: 0.468604 alpha: 1.1448 beta: 1.1448 machine: 1
 Dsign Feed Flow 80.9303
- INFO3(core  ):    Building a storage_2 from parent 0x55e8fd51bfc0
- INFO3(core  ):    Building a cascade_3 from parent 0x55e8fd51bfc0
+ INFO3(core  ):    Building a storage_2 from parent 0x56217e7a28c0
+ INFO3(core  ):    Building a cascade_3 from parent 0x56217e7a28c0
 stg -6 FA: 0.0031666 PA: 0.00362347 TA: 0.00276717 feed_flow: 5.09351e-05 cut: 0.466457 alpha: 1.1448 beta: 1.1448 machine: 4
 stg -5 FA: 0.00362347 PA: 0.00414598 TA: 0.0031666 feed_flow: 9.54714e-05 cut: 0.466488 alpha: 1.1448 beta: 1.1448 machine: 8
 stg -4 FA: 0.00414598 PA: 0.00474348 TA: 0.00362347 feed_flow: 0.000134425 cut: 0.466523 alpha: 1.1448 beta: 1.1448 machine: 10
@@ -123,8 +123,8 @@ stg 10 FA: 0.0269037 PA: 0.0306799 TA: 0.023581 feed_flow: 2.63089e-05 cut: 0.46
 stg 11 FA: 0.0306799 PA: 0.0349671 TA: 0.0269037 feed_flow: 1.6394e-05 cut: 0.468315 alpha: 1.1448 beta: 1.1448 machine: 2
 stg 12 FA: 0.0349671 PA: 0.0398288 TA: 0.0306799 feed_flow: 7.67754e-06 cut: 0.468604 alpha: 1.1448 beta: 1.1448 machine: 1
 Dsign Feed Flow 80.9303
- INFO3(core  ):    Building a storage_3 from parent 0x55e8fd51bfc0
- INFO3(core  ):    Building a waste from parent 0x55e8fd51bfc0
+ INFO3(core  ):    Building a storage_3 from parent 0x56217e7a28c0
+ INFO3(core  ):    Building a waste from parent 0x56217e7a28c0
  INFO2(core  ):  Beginning Tick for time: 1
  INFO3(ComCnv):    storage_0 is ticking {
  INFO4(ComCnv):       has capacity for 1e+299 kg of material.
@@ -22300,4 +22300,4 @@ Dsign Feed Flow 80.9303
 
 Status: Cyclus run successful!
 Output location: case_3/R_raw_S3.sqlite
-Simulation ID: 883b8c4c-1477-46df-9d8b-2bebd0422eb0
+Simulation ID: 8afa6306-f762-4f9f-a83c-82b5baf97566
