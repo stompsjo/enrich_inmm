@@ -1,7 +1,7 @@
 #!/bin/bash
 
 
-for file in `ls case_2/NR_raw_S5.xml`;
+for file in `ls case_2/NR*.xml`;
 do
     name=`echo "${file%%.*}.sqlite"`
     out=`echo "${file%%.*}.output"`
